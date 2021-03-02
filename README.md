@@ -12,6 +12,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nithin-ta-80816a1a7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nithin ta" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/nithinta234" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="nithin ta" height="30" width="40" /></a>
+<a href="https://github.com/Nithin47TA/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="nithin ta" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
