@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/nithin76625619" target="blank"><img src="https://img.shields.io/twitter/follow/nithin76625619?logo=twitter&style=for-the-badge" alt="nithin76625619" /></a> </p>
 <p align="center">
-<a href="https://github.com/chandran-jr" target="_blank">
+<a href="https://github.com/Nithin47TA" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/govind-b-chandran-46821a193/" target="_blank">
